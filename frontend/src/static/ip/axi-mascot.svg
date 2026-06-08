@@ -1,0 +1,70 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="喜鹊礼簿吉祥物 阿喜">
+  <title>阿喜 · 喜鹊礼簿吉祥物</title>
+  <defs>
+    <linearGradient id="tailBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3E6FB0"/>
+      <stop offset="1" stop-color="#2B3A67"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ground shadow -->
+  <ellipse cx="160" cy="288" rx="86" ry="14" fill="#000000" opacity="0.08"/>
+
+  <!-- tail: long layered magpie tail with blue sheen (signature silhouette) -->
+  <g stroke="#1F232E" stroke-width="3" stroke-linejoin="round">
+    <path d="M150 214 L40 246 L52 270 L160 236 Z" fill="url(#tailBlue)"/>
+    <path d="M150 222 L66 286 L92 296 L168 244 Z" fill="#2B3140"/>
+    <path d="M150 230 L150 300 L176 292 L172 244 Z" fill="url(#tailBlue)"/>
+  </g>
+
+  <!-- body -->
+  <ellipse cx="166" cy="186" rx="78" ry="74" fill="#2B3140" stroke="#1F232E" stroke-width="3"/>
+  <!-- white belly -->
+  <path d="M120 168 C120 130 212 130 212 168 C212 224 178 250 166 250 C154 250 120 224 120 168 Z" fill="#FBF7F2"/>
+
+  <!-- wing -->
+  <path d="M214 156 C246 162 252 198 232 222 C214 206 206 180 214 156 Z" fill="#222633" stroke="#1F232E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M222 176 C234 180 238 196 230 210" stroke="#3E6FB0" stroke-width="4" stroke-linecap="round" fill="none"/>
+
+  <!-- head -->
+  <circle cx="156" cy="112" r="58" fill="#2B3140" stroke="#1F232E" stroke-width="3"/>
+  <!-- face patch -->
+  <path d="M120 108 C120 84 192 84 192 108 C192 146 174 160 156 160 C138 160 120 146 120 108 Z" fill="#FBF7F2"/>
+
+  <!-- eyes -->
+  <circle cx="140" cy="110" r="9.5" fill="#20242E"/>
+  <circle cx="176" cy="110" r="9.5" fill="#20242E"/>
+  <circle cx="143" cy="107" r="3" fill="#FFFFFF"/>
+  <circle cx="179" cy="107" r="3" fill="#FFFFFF"/>
+
+  <!-- cheeks -->
+  <circle cx="124" cy="126" r="8" fill="#F5A0A0" opacity="0.85"/>
+  <circle cx="192" cy="126" r="8" fill="#F5A0A0" opacity="0.85"/>
+
+  <!-- beak -->
+  <path d="M150 122 L166 122 L158 134 Z" fill="#F4A23E" stroke="#D6852A" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- little head tuft -->
+  <path d="M150 56 C150 44 162 44 162 56 C170 50 180 56 174 66 C168 60 158 62 156 70 C152 62 150 60 150 56 Z" fill="#222633"/>
+
+  <!-- red peony on head -->
+  <g transform="translate(186 70)">
+    <circle r="13" fill="#D7263D"/>
+    <circle r="6" fill="#F4C95D"/>
+    <circle cx="-11" cy="-4" r="6" fill="#E14156"/>
+    <circle cx="11" cy="-4" r="6" fill="#E14156"/>
+    <circle cx="0" cy="-12" r="6" fill="#E14156"/>
+  </g>
+
+  <!-- red envelope held in wings -->
+  <g transform="translate(118 198)">
+    <rect x="0" y="0" width="84" height="64" rx="10" fill="#D7263D" stroke="#A81728" stroke-width="3"/>
+    <path d="M0 14 C24 34 60 34 84 14" fill="none" stroke="#F4C95D" stroke-width="4"/>
+    <circle cx="42" cy="20" r="11" fill="#F4C95D"/>
+    <text x="42" y="48" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',serif" font-size="26" font-weight="700" fill="#F4C95D">囍</text>
+  </g>
+
+  <!-- little feet -->
+  <path d="M146 256 l0 12 M140 268 h12" stroke="#F4A23E" stroke-width="5" stroke-linecap="round"/>
+  <path d="M186 256 l0 12 M180 268 h12" stroke="#F4A23E" stroke-width="5" stroke-linecap="round"/>
+</svg>
